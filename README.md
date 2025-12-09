@@ -1,4 +1,5 @@
-![tileserver-gl](https://cloud.githubusercontent.com/assets/59284/18173467/fa3aa2ca-7069-11e6-86b1-0f1266befeb6.jpeg)
+# Note: the reason for us to have this repo is that we might consider future implementation of servside rendering of vector tile (integrate with our vector-tile)
+
 
 # TileServer GL
 [![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/maptiler/tileserver-gl/pipeline.yml)](https://github.com/maptiler/tileserver-gl/actions/workflows/pipeline.yml)
